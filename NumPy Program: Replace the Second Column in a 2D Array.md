@@ -1,6 +1,6 @@
 # NumPy Program: Replace the Second Column in a 2D Array
-## NAME :S.L.NARASIMHA REDDY
-## REG NO:212223040214
+## NAME :Skarthikeyan M
+## REG NO:212223040088
 ## 🎯 Aim
 To write a **NumPy** program that deletes the second column from a given 2D array and inserts a new column at the same position.
 
