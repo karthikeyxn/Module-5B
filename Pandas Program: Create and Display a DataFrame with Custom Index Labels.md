@@ -1,6 +1,6 @@
 # Pandas Program: Create and Display a DataFrame with Custom Index Labels
-## NAME :S.L.NARASIMHA REDDY
-## REG NO:212223040214
+## NAME :karthikeyan M
+## REG NO:212223040088
 ## 🎯 Aim
 
 To create and display a **DataFrame** using the **Pandas** library in Python from a given dictionary, and apply specific index labels to the rows.
